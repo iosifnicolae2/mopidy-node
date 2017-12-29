@@ -1,0 +1,32 @@
+{
+  "name": "mopidy-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mopidy": "^0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iosifnicolae2/mopidy-node.git"
+  },
+  "keywords": [
+    "mopidy",
+    "orangepi",
+    "internet",
+    "radio",
+    "node",
+    "library",
+    "npm"
+  ],
+  "author": "Nicolae Iosif",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iosifnicolae2/mopidy-node/issues"
+  },
+  "homepage": "https://github.com/iosifnicolae2/mopidy-node#readme"
+}
